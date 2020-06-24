@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+
+body {
+    background-color: #F0EAD6;
+    font-family: 'Open Sans', Arial, Helvetica;
+    text-align: center;
+    position: absolute;
+  }
+  
+  #img-div {
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    position: relative;
+  }
+  
+  #img-div p {
+    margin: 1em 2em 1em 2em;
+  }
+  
+  img {
+    position: relative;
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
+  
+  #tribute-info {
+    padding: 1em 10em 1em 10em;
+    text-align: left;
+  }
+  
+  #tribute-info h3 {
+    text-align: center;
+    padding: 1em;
+  }
+  
+  li {
+    margin: 2em;
+  }
+  
+  h1 {
+    font-size: 3em;
+  }
+  
+  blockquote {
+    font-style: italic;
+    padding: 0em;
+  }
+  
+  footer {
+    font-weight: bold;
+  }
+  
+  
